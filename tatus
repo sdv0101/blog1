@@ -1,0 +1,85 @@
+[33mcommit aafe8f2dc12a9b684065229bd7cdc4bc246ad62b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 3810721 686e46c
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Fri Jul 14 07:22:00 2023 -0300
+
+    solucione el conflicto de la ramas al solucionar
+
+[33mcommit 3810721dc8819845768b38086d3f47fcaac4d77c[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Fri Jul 14 07:09:34 2023 -0300
+
+    agregue suscripcion cambie cabecera y puse todo azul
+
+[33mcommit 686e46ce9c5373adadc394978e8d89f5c8acebf0[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Fri Jul 14 07:06:29 2023 -0300
+
+    modifique el color del texto
+
+[33mcommit e7477b691b0be54798a39be57952aef818d036b5[m
+Merge: 6c5b2df f4c2b28
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Wed Jul 12 07:48:57 2023 -0300
+
+    Merge branch 'cabecera'
+
+[33mcommit 6c5b2dfc917313468bc632d900ad48dcc108a4a2[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Wed Jul 12 07:44:05 2023 -0300
+
+    agregado el contenido final del post
+
+[33mcommit f4c2b28b8710514e77184bc82fcb07e3d4343e69[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Wed Jul 12 07:39:07 2023 -0300
+
+    finalizada la cabecera con diseño azul
+
+[33mcommit 3c89b6c8e3e52ae750a9ac33bfafaf5981d2bd67[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Wed Jul 12 07:21:25 2023 -0300
+
+    estructura inicial de la cabecera
+
+[33mcommit 9c42cef0b2ee12ce809907bb44f5fa311600bbce[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Wed Jul 12 07:13:57 2023 -0300
+
+    commit al master del blogspot en su version mas reciente
+
+[33mcommit 3bfcb91c000b82a39232b58abfdaf8a72269c4e0[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Thu Jul 6 08:04:10 2023 -0300
+
+    reemplazo de una version por otra de la historia
+
+[33mcommit 093657a24a79e05c8184e15d5ee4b11cdc62318d[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Thu Jul 6 07:57:09 2023 -0300
+
+    cambio de maestria
+
+[33mcommit b1c0d311eda844d633f1b49cc7ef8829e72782b2[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Thu Jul 6 07:56:20 2023 -0300
+
+    cambio de vida
+
+[33mcommit 8f00524532d7939a263caceafd6c712b209b6e2a[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Thu Jul 6 07:54:54 2023 -0300
+
+    arranco mi proyecto real con html y css
+
+[33mcommit 756d05bd55fb0f4942cb35d215662dc9012e829c[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Tue Jul 4 09:21:06 2023 -0300
+
+    cambios al archivo para la edad correcta
+
+[33mcommit e6146b02c913d8b9ee001a711bb61cf139862a76[m
+Author: sdv0101 <s.v1984@hotmail.com>
+Date:   Tue Jul 4 09:18:19 2023 -0300
+
+    este es el primer commit de este archivo
